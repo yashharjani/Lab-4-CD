@@ -4,7 +4,7 @@ This guide provides step-by-step instructions for setting up a self-hosted runne
 
 ## 1. Setting up the Runner
 
-### 1.1 Docker Account Setup
+### 1.1 Docker Account Setup.
 1. Register for a Docker account at [https://app.docker.com/](https://app.docker.com/)
 2. Save your Docker credentials (username and password) securely.
 
