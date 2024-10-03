@@ -6,7 +6,7 @@ This guide provides step-by-step instructions for setting up a self-hosted runne
 
 ### 1.1 Docker Account Setup
 1. Register for a Docker account at [https://app.docker.com/](https://app.docker.com/)
-2. Save your Docker credentials (username and password) securely
+2. Save your Docker credentials (username and password) securely.
 
 ### 1.2 Repository Secrets
 Add the following secrets to your GitHub repository:
